@@ -6,3 +6,4 @@ applications:
   disk_quota: 10M
   memory: 32M
   stack: cflinuxfs2
+  
